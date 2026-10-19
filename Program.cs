@@ -18,6 +18,21 @@
             #endregion
 
 
+
+
+
+            #region Question 2
+            //2. Get a list of only the product names from ProductList. Print
+            //each name.
+
+
+            //var result = ProductList.Select(p => p.ProductName);
+
+            //foreach (var name in result)
+            //{
+            //    Console.WriteLine(name);
+            //}
+            #endregion
         }
     }
 }
