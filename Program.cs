@@ -103,6 +103,28 @@
 
             #endregion
 
+
+
+
+
+
+
+
+            #region Question 7
+
+            //var result = ProductList.Select((p, index) => new { Index = index + 1, Name = p.ProductName });
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"{item.Index}. {item.Name}");
+            //}
+
+
+
+            #endregion
+
+
+
         }
     }
 }
