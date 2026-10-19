@@ -125,6 +125,17 @@
 
 
 
+
+            #region Question 8
+
+
+            //var result = ProductList.OrderBy(p => p.Category).ThenByDescending(p => p.UnitPrice);
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"Category: {item.Category}, Name: {item.ProductName}, Price: {item.UnitPrice}");
+            //}
+            #endregion
         }
     }
 }
