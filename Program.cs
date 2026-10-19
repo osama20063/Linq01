@@ -33,6 +33,22 @@
             //    Console.WriteLine(name);
             //}
             #endregion
+
+
+
+
+
+            #region Question 3
+
+            //var result = ProductList.OrderBy(p => p.UnitPrice);
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"Name: {item.ProductName}, Price: {item.UnitPrice}");
+            //}
+
+
+            #endregion
         }
     }
 }
