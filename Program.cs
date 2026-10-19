@@ -4,7 +4,20 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region Question 1
+            //1. Get all products from the "Seafood" category. Print each
+            //product's name and price.
+
+            //var result = ProductList.Where(p => p.Category == "Seafood");
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"Name: {item.ProductName}, Price: {item.UnitPrice}");
+            //}
+
+            #endregion
+
+
         }
     }
 }
