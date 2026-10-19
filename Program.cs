@@ -136,6 +136,21 @@
             //    Console.WriteLine($"Category: {item.Category}, Name: {item.ProductName}, Price: {item.UnitPrice}");
             //}
             #endregion
+
+
+
+
+            #region Question 9
+            //var result = ProductList.Where(p => p.Category == "Beverages").OrderByDescending(p => p.UnitsInStock);
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"Name: {item.ProductName}, Stock: {item.UnitsInStock}");
+            //}
+
+
+
+            #endregion
         }
     }
 }
