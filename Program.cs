@@ -49,6 +49,22 @@
 
 
             #endregion
+
+
+
+
+
+            #region Question 4
+
+            //var result = ProductList.Where(p => p.UnitPrice >= 10 && p.UnitPrice <= 30);
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"Name: {item.ProductName}, Price: {item.UnitPrice}");
+            //}
+
+
+            #endregion
         }
     }
 }
