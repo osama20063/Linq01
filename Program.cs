@@ -185,7 +185,20 @@
 
 
 
-            
+            #region Question 12
+
+            //String[] Arr = { "aPPLe", "AbAcUs", "bRaNcH", "BlUeBeRrY", "ClOvEr", "cHeRrY" };
+
+            //var result = Arr.OrderBy(w => w.Length).ThenBy(w => w, StringComparer.OrdinalIgnoreCase);
+
+            //foreach (var word in result)
+            //{
+            //    Console.WriteLine(word);
+            //}
+
+
+            #endregion
+
         }
     }
 }
