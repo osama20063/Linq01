@@ -65,6 +65,23 @@
 
 
             #endregion
+
+
+
+
+            #region Question 5
+
+            //var result = ProductList.Where(p => p.UnitsInStock > 0 && p.Category == "Condiments");
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine(item.ProductName);
+            //}
+
+
+
+            #endregion
+
         }
     }
 }
