@@ -151,6 +151,24 @@
 
 
             #endregion
+
+
+
+
+            #region Question 10
+
+            //var result = from c in CustomerList
+            //             from o in c.Orders
+            //             where o.OrderDate.Year >= 1997
+            //             select new { c.CustomerID, o.OrderDate };
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"CustomerID: {item.CustomerID}, OrderDate: {item.OrderDate}");
+            //}
+
+
+            #endregion
         }
     }
 }
